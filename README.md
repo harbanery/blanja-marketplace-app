@@ -22,12 +22,19 @@
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Feature](#key-features)
-- [Related Project](#related-project)
-- [Contact](#contact)
-- [Contribution](#contribution)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setup Environment Variables](#setup-environment-variables)
+  - [Running the Application](#running-the-application)
+- [Usage](#usage)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+- [Contributing](#contributing)
+  - [Meet the Contributors](#meet-the-contributors)
+  - [How to Contribute](#how-to-contribute)
+- [Contacts](#contacts)
+- [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -107,35 +114,35 @@ npm run lint
 
 ### Features
 
-1. User Authentication
+1. **User Authentication**
 
    - **Role-Based Login and Registration**: Users can register or log in as either a customer or a seller, with functionalities tailored to each role.
 
-2. Product Discovery
+2. **Product Discovery**
 
    - **View Products**: Browse products from various registered sellers.
    - **Search and Filter**: Efficiently search and filter products to find exactly what you're looking for.
 
-3. Product Details
+3. **Product Details**
 
    - **Detailed Product View**: Access comprehensive details for each product to make informed purchasing decisions.
 
-4. Shopping Cart and Checkout
+4. **Shopping Cart and Checkout**
 
    - **Add to Cart**: Easily add products to your shopping cart.
    - **Checkout Process**: Proceed to checkout to review and purchase your selected products.
 
-5. Payment and Shipping
+5. **Payment and Shipping**
 
    - **Secure Payment**: Complete your purchase with secure payment options.
    - **Address Management**: Add, edit, and set a primary shipping address for your orders.
 
-6. User Profile Management
+6. **User Profile Management**
 
    - **Profile Overview and Editing**: View and update your user profile information.
    - **Order History**: View the status and details of past orders.
 
-7. Seller-Specific Features
+7. **Seller-Specific Features**
 
    - **Store Profile Management**: Sellers can view and edit their store profiles.
    - **Product Management for Sellers**:
@@ -284,24 +291,6 @@ Feel free to check it out:
 
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com/)
-
-<!-- ## Contact
-
-Feel free to contact us if there is any question you want to ask regarding this project or if you just want to get in touch.
-
-### Email
-
-- Farhan Nur Hakim: farhanz.nh.13@gmail.com
-- Wafa Saefulhaq: saefulhaqwafa@gmail.com
-- Syaifulloh Ismail: syaifullohismail123@gmail.com
-- Raihan Yusuf: ryusuf05@gmail.com
-
-### LinkedIn
-
-- Farhan Nur Hakim: [https://www.linkedin.com/in/farhan-nur-hakim/](https://www.linkedin.com/in/farhan-nur-hakim/)
-- Wafa Saefulhaq: [https://www.linkedin.com/in/mwafasaefulhaq/](https://www.linkedin.com/in/mwafasaefulhaq/)
-- Syaifulloh Ismail: [https://www.linkedin.com/in/syaifulloh-ismail/](https://www.linkedin.com/in/syaifulloh-ismail/)
-- Raihan Yusuf: [www.linkedin.com/in/raihan-yusuf](www.linkedin.com/in/raihan-yusuf) -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
