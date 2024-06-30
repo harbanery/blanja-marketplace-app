@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/harbanery/be-blanja-marketplace-app">
+  <a href="https://github.com/harbanery/blanja-marketplace-app">
     <img src="./public/brandicon.png" alt="Logo Blanja" width="250">
   </a>
 
