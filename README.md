@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/harbanery/be-blanja-marketplace-app">
+  <a href="https://github.com/harbanery/blanja-marketplace-app">
     <img src="./public/brandicon.png" alt="Logo Blanja" width="250">
   </a>
 
@@ -57,7 +57,7 @@ Blanja is a comprehensive e-commerce platform designed to connect customers with
 - npm
 
   ```sh
-    npm install npm@latest -g
+  npm install npm@latest -g
   ```
 
 ### Installation
@@ -74,7 +74,13 @@ Ensure you have the following installed on your local machine:
    git clone --single-branch --branch feature/front-end https://github.com/echestratus/BlanjaWebsiteProject.git
    ``` -->
 
-2. Install NPM packages
+2. Go to folder directory
+
+   ```bash
+   cd blanja-marketplace-app
+   ```
+
+3. Install NPM packages
 
    ```sh
    npm install
@@ -87,7 +93,7 @@ Ensure you have the following installed on your local machine:
 2. Add the following variables to the `.env` or `.env.local` file:
 
    ```sh
-     VITE_BE_URL=YOUR_API_URL
+   VITE_BE_URL=YOUR_API_URL
    ```
 
 ### Running the Application
@@ -95,7 +101,7 @@ Ensure you have the following installed on your local machine:
 1. Start the development server:
 
    ```sh
-    npm run dev
+   npm run dev
    ```
 
 2. Open your browser and locally navigate to:
@@ -151,6 +157,97 @@ npm run lint
      - **Edit Existing Products**: Update or edit the details of products in the seller's inventory.
 
 ### Screenshots
+
+<!-- <details>
+  <summary>Show/Hide Images</summary>
+  <br>
+  <table>
+   <tr>
+      <th>Login Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Login.png" alt="Login Page">
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Register Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Register.png" alt="Register Page"/>
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Home Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Home.png" alt="Home Page"/>
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Browse Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Browse.png" alt="Browse Page"/>
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Detail Recipe Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Detail Recipe.png" alt="Detail Recipe Page"/>
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Add Recipe Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Add Recipe.png" alt="Add Recipe Page"/>
+      </details>
+    </td>
+   </tr>
+   <tr>
+      <th>Profile Page</th>
+   </tr>
+   <tr>
+    <td>
+      <details>
+        <summary>Show/Hide Image</summary>
+        <br>
+        <img src="./public/screenshots/Profile.png" alt="Profile Page"/>
+      </details>
+    </td>
+   </tr>
+</table>
+</details> -->
 
 <p align="center" display=flex>
   <table>
@@ -266,6 +363,10 @@ Contributing project to github is pretty straight forward.
    - Click on the "New Pull Request" button.
    - Select the base repository and branch you want to merge into.
    - Provide a detailed description of your changes and click "Create Pull Request".
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/echestratus/BlanjaWebsiteProject/blob/feature/front-end/LICENSE) for more information.
 
 ## Contacts
 
