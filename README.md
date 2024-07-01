@@ -74,7 +74,13 @@ Ensure you have the following installed on your local machine:
    git clone --single-branch --branch feature/front-end https://github.com/echestratus/BlanjaWebsiteProject.git
    ``` -->
 
-2. Install NPM packages
+2. Go to folder directory
+
+   ```bash
+   cd blanja-marketplace-app
+   ```
+
+3. Install NPM packages
 
    ```sh
    npm install
